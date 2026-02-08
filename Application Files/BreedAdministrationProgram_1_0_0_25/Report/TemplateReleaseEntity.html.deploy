@@ -1,8 +1,0 @@
-	<table class="c28"><tr class="c29"><td class="c22" colspan="1" rowspan="1">
-    <p class="c12"><span class="c11"><img width=250 src="[PIC]"></img></span></p></td><td class="c22" colspan="1" rowspan="1">
-    <p class="c18"><span class="c17">Rasse u. Farbe:</span><span class="c16"><br></span><span class="c3">[RACE] [COLOR]</span></p>
-    <p class="c18"><span class="c17">Geburtsdatum, Geschlecht:</span><span class="c16"><br></span><span class="c11">*[BIRTH], [SEX]</span></p>
-    <p class="c18"><span class="c17">Eltern:</span><span class="c3">&nbsp;<br>[MALEPARENT] &amp; [FEMALEPARENT]</span></p>
-    <p class="c18"><span class="c17">Notiz:</span><span class="c3"><br>[NOTE]</span></p>
-    <p class="c18"><span class="c17">Abgabegewicht:</span><span class="c11">&nbsp;<br>[WEIGHT] g</span></p></td></tr>
-    </table>
