@@ -1,0 +1,11 @@
+    <div class="c8 fixedH1">
+	<span class="FTitle">Name der Zucht</span>
+	</div>
+	
+	<div class="c8 fixedH2">
+	<span class="FSubTitle">Meerschweinchenzucht</span>
+	</div>
+	
+	<div class="fixed3">
+    <p class="c5"><span class="c19">Nachname Vorname &middot; Strasse 5A &middot; PLZ Ort<br>Telefonnummer 1 &middot; Telefonnummer 2<br>E-Mail@Adresse &middot; www.homepage.com</span></p>
+	</div>
